@@ -103,11 +103,15 @@
       "call": "Call {phone}",
       "facebook": "Our Facebook page (opens in a new window)",
       "instagram": "Our Instagram page (opens in a new window)",
-      "developer": "Website by Mysite (opens in a new window)",
+      "developer": "Website by {name} (opens in a new window)",
       "closeMenu": "Close menu",
       "rating": "Rating: {value} out of 5",
       "carousel": "Slider",
       "more": "Learn more about {name}"
+    },
+    "whatsappFloat": {
+      "label": "Chat on WhatsApp",
+      "text": "Hello! I'd like to get information about your cleaning services."
     }
   },
   "home": {

@@ -7,6 +7,7 @@ import { getMessages, getTranslations } from "next-intl/server";
 import { routing } from "@/i18n/routing";
 import { Analytics } from "@/shared/components/analytics";
 import { JsonLd } from "@/shared/components/json-ld";
+import { WhatsAppFloat } from "@/shared/components/whatsapp-float";
 import { localBusinessJsonLd } from "@/shared/lib/seo";
 import { site } from "@/shared/config/site";
 import { Footer } from "@/shared/layout/footer";
@@ -51,6 +52,7 @@ export default async function LocaleLayout({ children }: LayoutProps<"/[locale]"
           <Navbar />
           <main className="flex-1">{children}</main>
           <Footer />
+          <WhatsAppFloat />
         </NextIntlClientProvider>
         <JsonLd data={localBusinessJsonLd(locale)} />
         <Analytics />

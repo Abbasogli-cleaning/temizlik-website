@@ -142,7 +142,7 @@ export function Footer() {
               href={site.developer.href}
               target="_blank"
               rel="noopener noreferrer"
-              aria-label={t("a11y.developer")}
+              aria-label={t("a11y.developer", { name: site.developer.name })}
               className="underline hover:text-white"
             >
               {site.developer.name}

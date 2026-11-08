@@ -103,11 +103,15 @@
       "call": "{phone} nömrəsinə zəng edin",
       "facebook": "Facebook səhifəmiz (yeni pəncərədə açılır)",
       "instagram": "Instagram səhifəmiz (yeni pəncərədə açılır)",
-      "developer": "Saytı hazırlayan: Mysite (yeni pəncərədə açılır)",
+      "developer": "Saytı hazırlayan: {name} (yeni pəncərədə açılır)",
       "closeMenu": "Menyunu bağla",
       "rating": "Reytinq: 5 üzərindən {value}",
       "carousel": "Slayder",
       "more": "{name} haqqında ətraflı"
+    },
+    "whatsappFloat": {
+      "label": "WhatsApp ilə yazın",
+      "text": "Salam! Təmizlik xidməti haqqında məlumat almaq istəyirəm."
     }
   },
   "home": {
