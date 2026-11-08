@@ -1,5 +1,4 @@
 import type { MetadataRoute } from "next";
-
 import { posts } from "@/features/blog/posts";
 import { paths } from "@/features/seo/links";
 import { COMBO_LOCALES, locations, sectorCityPages, sectors, serviceLocationPages, services } from "@/features/seo/pages";
@@ -11,7 +10,6 @@ type Entry = { path: string; freq: Freq; priority: number; locales: readonly Loc
 
 const ALL = routing.locales;
 
-/** Səhifələrlə eyni data-dan — yeni ərazi/xidmət avtomatik sitemap-ə düşür */
 const entries: Entry[] = [
   { path: "", freq: "weekly", priority: 1, locales: ALL },
   { path: "/services", freq: "monthly", priority: 0.9, locales: ALL },

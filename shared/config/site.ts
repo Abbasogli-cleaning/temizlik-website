@@ -13,7 +13,6 @@ export const site = {
     facebook: "https://www.facebook.com/abbasoglu.t.mizlik.xidm.ti/",
     instagram: "https://www.instagram.com/cleaning.abbasogli/reels/",
   },
-  /** Öz OG şəkli (loqo) — köhnə Webflow şablon reklamı əvəzinə */
   ogImage: "/images/abbasoglu-temizlik-og.jpg",
   gtagIds: ["G-PJCSYJ3B9F", "G-ZD1ZGG3PRN", "AW-11377690140"],
 } as const;
