@@ -1,0 +1,355 @@
+{
+  "common": {
+    "metadata": {
+      "title": "Abbasoglu Cleaning - Cleaning solutions",
+      "description": "Professional cleaning services since 2012: offices and business centers, facades and glass, post-renovation cleaning, disinfection and post-fire cleaning."
+    },
+    "nav": {
+      "home": "Home",
+      "services": "Services",
+      "about": "About us",
+      "sectors": "Sectors",
+      "areas": "Areas",
+      "blog": "Blog"
+    },
+    "contact": "Contact",
+    "menu": "Menu",
+    "language": "Language",
+    "allServices": "All services",
+    "prev": "Previous",
+    "next": "Next",
+    "goToSlide": "Go to slide {index}",
+    "guaranteed": "Guaranteed result",
+    "footer": {
+      "cta": "Get in touch with us now to order a premium service.",
+      "quote": "Get a quote",
+      "call": "Call us: {phone}",
+      "tagline": "Systematic, professional, high-standard cleaning for long-term partnerships.",
+      "developedBy": "Developed by",
+      "areas": "Service areas",
+      "sectors": "Sectors",
+      "popular": "Popular searches",
+      "menu": "Menu"
+    },
+    "stats": {
+      "projects": {
+        "title": "Completed projects",
+        "text": "Years of experience and consistently high customer satisfaction."
+      },
+      "years": {
+        "title": "Years of experience",
+        "text": "The years we have worked professionally in cleaning services."
+      },
+      "clients": {
+        "title": "Satisfied clients",
+        "text": "Hundreds of satisfied clients and lasting partnerships."
+      },
+      "partners": {
+        "title": "Partners",
+        "text": "Companies we work with under long-term contracts."
+      }
+    },
+    "services": {
+      "office": {
+        "title": "Offices and business centers",
+        "text": "Consistent, high-level service. Contract-based service with quality reports."
+      },
+      "facade": {
+        "title": "Facade and glass",
+        "text": "Professional washing of building facades and glass."
+      },
+      "renovation": {
+        "title": "Post-renovation cleaning",
+        "text": "Removal of dust and dirt after construction and renovation using special equipment and products."
+      },
+      "disinfection": {
+        "title": "Disinfection",
+        "text": "Complete removal of viruses and bacteria from your premises. Professional disinfection service."
+      },
+      "fire": {
+        "title": "Post-fire cleaning",
+        "text": "Removal of soot, smoke odor and dirt after a fire using special technology."
+      },
+      "apartment": {
+        "title": "Apartment cleaning",
+        "text": ""
+      },
+      "restaurant": {
+        "title": "Restaurant and cafe cleaning",
+        "text": ""
+      }
+    },
+    "form": {
+      "title": "Get a custom quote",
+      "name": "Your name",
+      "namePlaceholder": "First and last name",
+      "email": "Email",
+      "emailPlaceholder": "example@gmail.com",
+      "phone": "Phone",
+      "phonePlaceholder": "+994 55 000 00 00",
+      "service": "Select a service",
+      "location": "Address",
+      "locationPlaceholder": "Baku",
+      "date": "Date",
+      "submit": "Send",
+      "success": "Thank you! Your request was forwarded to WhatsApp.",
+      "message": "Hello! I would like to get a custom quote."
+    },
+    "a11y": {
+      "home": "Abbasoglu Cleaning — home page",
+      "mainNav": "Main menu",
+      "breadcrumb": "Breadcrumb",
+      "whatsapp": "Contact us on WhatsApp (opens in a new window)",
+      "call": "Call {phone}",
+      "facebook": "Our Facebook page (opens in a new window)",
+      "instagram": "Our Instagram page (opens in a new window)",
+      "developer": "Website by Mysite (opens in a new window)",
+      "closeMenu": "Close menu",
+      "rating": "Rating: {value} out of 5",
+      "carousel": "Slider",
+      "more": "Learn more about {name}"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "High-Standard Cleaning Solutions",
+      "text": "Quality is no accident. It is the result of planning and control. Professional approach. Systematic process. Guaranteed result."
+    },
+    "about": {
+      "title": "Abbasoglu Cleaning has been operating in the cleaning market since 2012.",
+      "text": "The company's core activity is providing professional cleaning services. We apply a structured service model.",
+      "imageAlt": "Abbasoglu Cleaning specialist wiping kitchen cabinets"
+    },
+    "servicesTitle": "Our services",
+    "testimonials": {
+      "title": "Our clients and contracts",
+      "partner": "Partner",
+      "client": "Client",
+      "items": {
+        "suIdman": {
+          "name": "“SU IDMANI SARAYI” LLC",
+          "text": "High professionalism and efficiency were demonstrated throughout the project."
+        },
+        "sgc": {
+          "name": "SGC Azerbaijan LLC",
+          "text": "Throughout our long-term cooperation we have always seen high service standards."
+        },
+        "azpulmat": {
+          "name": "Azpulmat LLC / MZ Plaza",
+          "text": "Throughout our cooperation our offices were always kept clean and tidy. The staff are highly skilled professionals."
+        },
+        "mixek": {
+          "name": "Mikhak restaurant",
+          "text": "Throughout our cooperation our premises were always kept clean and tidy. The staff are highly skilled professionals."
+        },
+        "nelbeki": {
+          "name": "Nalbaki restaurant",
+          "text": "Throughout our long-term cooperation we have always seen high service standards."
+        }
+      }
+    },
+    "work": {
+      "title": "Our work",
+      "imageAlt": "Our work {index}"
+    },
+    "advantages": {
+      "title": "Our advantages",
+      "items": {
+        "system": {
+          "category": "System stage",
+          "title": "Structured work plan and systematic approach"
+        },
+        "team": {
+          "category": "Specialists",
+          "title": "Trained, permanent team and smooth service"
+        },
+        "equipment": {
+          "category": "Equipment",
+          "title": "Modern equipment and a quality-control stage"
+        }
+      }
+    }
+  },
+  "about": {
+    "metaTitle": "About us",
+    "hero": {
+      "title": "Perfection in every clean",
+      "text": "«ABBASOGLU» cleaning service has been operating in the cleaning market since 2012. The company's core activity is providing professional cleaning services. We don't offer ordinary cleaning. We apply a structured service model.",
+      "imageAlt": "Abbasoglu Cleaning team cleaning desks and floors in an office"
+    },
+    "values": {
+      "mission": {
+        "title": "Our mission",
+        "text": "Quality is no accident. It is the result of planning and control. All of our products have quality certificates."
+      },
+      "story": {
+        "title": "Our story",
+        "text": "Abbasoglu Cleaning stands out in the market for its professional approach, systematic processes and guaranteed results."
+      },
+      "vision": {
+        "title": "Our vision",
+        "text": "A custom plan is prepared for every site, and there is a quality-control stage. The price is based on the required standard, not the size of the site."
+      }
+    },
+    "split": {
+      "title": "Customer satisfaction is our priority",
+      "text": "We solve problems such as poor-quality work, unsupervised teams and lost time. We offer a structure: site analysis, a custom plan, professional execution and quality inspection.",
+      "features": {
+        "standard": "High standard",
+        "systematic": "Systematic approach",
+        "structured": "Structured process",
+        "custom": "Custom solution",
+        "team": "Trained, permanent team",
+        "equipment": "Modern equipment",
+        "quality": "Quality inspection stage"
+      },
+      "imageAlt": "Abbasoglu Cleaning specialist with cleaning products"
+    },
+    "popular": {
+      "title": "Our most requested services",
+      "office": "Consistent, high-level service for business centers, clinics and facilities.",
+      "facade": "Flawless washing of building facades and glass.",
+      "renovation": "Dust, cement marks and dirt left after construction and renovation are removed with special equipment and professional products."
+    },
+    "team": {
+      "title": "Our team",
+      "items": {
+        "lead": {
+          "name": "Team lead",
+          "role": "Process manager"
+        },
+        "alpinist": {
+          "name": "Rope-access team lead",
+          "role": "Certified specialist"
+        },
+        "quality": {
+          "name": "Quality manager",
+          "role": "Responsible manager"
+        },
+        "hr": {
+          "name": "Personnel manager",
+          "role": "Human resources"
+        }
+      }
+    }
+  },
+  "services": {
+    "metaTitle": "Services",
+    "hero": {
+      "title": "Expert cleaning solutions",
+      "text": "We take pride in delivering top-level cleaning services tailored to your unique needs.",
+      "imageAlt": "Cleaning specialist disinfecting a kitchen table and chairs"
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "items": {
+        "services": {
+          "q": "What services do you offer?",
+          "a": "We offer a wide range of cleaning services, including residential cleaning, commercial and office centers, carpet washing, window cleaning and deep cleaning."
+        },
+        "order": {
+          "q": "How do I book a cleaning service?",
+          "a": "Booking is easy! You can schedule a convenient time online through our website, by phone or by email."
+        },
+        "cancel": {
+          "q": "What is your cancellation policy?",
+          "a": "We understand that plans change. If you need to cancel or reschedule your appointment, please contact us at least 24 hours in advance."
+        },
+        "sameTeam": {
+          "q": "Can I request the same cleaning team for every visit?",
+          "a": "We strive to ensure continuity for our clients. If you prefer the same trained team for every cleaning, just let us know."
+        },
+        "presence": {
+          "q": "Do I need to be at home (on site) during the cleaning?",
+          "a": "It's up to you! You can stay on site during the cleaning, or safely and reliably leave the process to us."
+        }
+      }
+    }
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The page you are looking for doesn't exist or has been moved.",
+    "back": "Back to home"
+  },
+  "seo": {
+    "more": "Learn more",
+    "faqTitle": "Frequently asked questions",
+    "areas": {
+      "title": "Service areas",
+      "text": "We provide office, apartment, facade, post-renovation cleaning and disinfection in every district of Baku, in Sumgait and in Khirdalan.",
+      "metaDescription": "Abbasoglu Cleaning — professional cleaning in all 12 districts of Baku, Sumgait and Khirdalan. Offices, apartments, facades, post-renovation, disinfection.",
+      "districts": "Baku districts",
+      "cities": "Baku, Sumgait and Khirdalan",
+      "services": "Services"
+    },
+    "location": {
+      "eyebrow": "Service area",
+      "title": "Cleaning services {in}",
+      "metaDescription": "Office, apartment and post-renovation cleaning, facade washing and disinfection {in} — {areas}. Call: 055 444 16 02.",
+      "aboutTitle": "What the area is like",
+      "areasTitle": "Neighborhoods we cover",
+      "servicesTitle": "Our services {in}",
+      "sectorsTitle": "Services by sector",
+      "districtsTitle": "Baku districts",
+      "nearbyTitle": "Nearby areas",
+      "q1": "How do I order cleaning {in}?",
+      "a1": "Contact us on WhatsApp or at 055 444 16 02. We agree a time for a site visit, then propose a custom plan and price.",
+      "q2": "Do you also cover {areas}?",
+      "a2": "Yes. We work in every neighborhood {in}, including {areas}.",
+      "q3": "How is the price calculated?",
+      "a3": "Price is based on the required standard, frequency and timing, not on the size of the site. We give an exact price after a site visit."
+    },
+    "service": {
+      "eyebrow": "Service",
+      "includedTitle": "What's included",
+      "processTitle": "How we work",
+      "factorsTitle": "What affects the price",
+      "areasTitle": "Where we provide this service",
+      "sectorsTitle": "Related sectors",
+      "postsTitle": "Useful articles",
+      "otherTitle": "Other services"
+    },
+    "combo": {
+      "contextTitle": "What we focus on here",
+      "otherServicesTitle": "Other services {in}",
+      "nearbyTitle": "{service} in nearby areas",
+      "metaDescription": "{service} {in}: {short} Call: 055 444 16 02.",
+      "q1": "How do I order {service} {in}?",
+      "a1": "Contact us on WhatsApp or at 055 444 16 02. We agree a time for a site visit in {name}, then propose a plan and price.",
+      "q2": "Do you also cover {areas}?",
+      "a2": "Yes. We provide this service in every neighborhood {in}, including {areas}."
+    },
+    "sectors": {
+      "title": "Cleaning by sector",
+      "text": "Every type of facility has its own requirements: a disinfection protocol in a clinic, guest comfort in a hotel, safety in production. Choose your sector.",
+      "metaDescription": "Professional cleaning for hotels, clinics, schools, shopping centers, sports complexes, residential complexes, warehouses and administrative buildings — Baku, Sumgait, Khirdalan."
+    },
+    "sector": {
+      "eyebrow": "Sector",
+      "requirementsTitle": "What we focus on in this sector",
+      "scheduleTitle": "Schedule and contract",
+      "servicesTitle": "Services for this sector",
+      "citiesTitle": "By city",
+      "testimonialTitle": "Client review"
+    },
+    "sectorCity": {
+      "cityTitle": "Local specifics",
+      "servicesTitle": "Services {in}",
+      "otherSectorsTitle": "Other sectors {in}",
+      "otherCitiesTitle": "In other cities",
+      "metaDescription": "{sector} {in}: {short} Call: 055 444 16 02.",
+      "q1": "How is a contract signed {in}?",
+      "a1": "We first visit and analyze the site, then the task list, schedule and standard are written into the contract. A permanent team is assigned to the site."
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "text": "Practical advice on cleaning, hygiene and facility care.",
+    "metaDescription": "Abbasoglu Cleaning blog: post-renovation cleaning, office hygiene, facade washing, disinfection and more.",
+    "readMore": "Read",
+    "relatedService": "Related service",
+    "relatedSector": "Related sector",
+    "latest": "More articles",
+    "back": "All articles"
+  }
+}

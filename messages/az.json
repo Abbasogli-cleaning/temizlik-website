@@ -1,0 +1,355 @@
+{
+  "common": {
+    "metadata": {
+      "title": "Abbasoğlu təmizlik - Təmizlik həlləri",
+      "description": "2012-ci ildən peşəkar təmizlik xidmətləri: ofis və biznes mərkəzləri, fasad və şüşə, təmir sonrası təmizlik, dezinfeksiya və yanğından sonra təmizlik."
+    },
+    "nav": {
+      "home": "Ana Səhifə",
+      "services": "Xidmətlər",
+      "about": "Haqqımızda",
+      "sectors": "Sektorlar",
+      "areas": "Ərazilər",
+      "blog": "Bloq"
+    },
+    "contact": "Əlaqə",
+    "menu": "Menyu",
+    "language": "Dil",
+    "allServices": "Bütün xidmətlər",
+    "prev": "Əvvəlki",
+    "next": "Növbəti",
+    "goToSlide": "{index}-ci slayda keç",
+    "guaranteed": "Zəmanətli Nəticə",
+    "footer": {
+      "cta": "Premium xidmət sifariş etmək üçün elə indi bizimlə əlaqə saxlayın.",
+      "quote": "Təklif Alın",
+      "call": "Zəng edin: {phone}",
+      "tagline": "Uzunmüddətli tərəfdaşlıq üçün sistemli, peşəkar və yüksək standartlara uyğun təmizlik.",
+      "developedBy": "Developed by",
+      "areas": "Xidmət əraziləri",
+      "sectors": "Sektorlar",
+      "popular": "Populyar axtarışlar",
+      "menu": "Menyu"
+    },
+    "stats": {
+      "projects": {
+        "title": "Tamamlanmış layihə",
+        "text": "İllərin təcrübəsi və hər zaman yüksək müştəri məmnuniyyəti."
+      },
+      "years": {
+        "title": "İl təcrübə",
+        "text": "Təmizlik xidməti sahəsində peşəkar fəaliyyət göstərdiyimiz illər."
+      },
+      "clients": {
+        "title": "Məmnun müştəri",
+        "text": "Yüzlərlə məmnun müştəri və daimi tərəfdaşlıqlar."
+      },
+      "partners": {
+        "title": "Tərəfdaşlar",
+        "text": "Uzunmüddətli müqavilə ilə işlədiyimiz şirkətlər."
+      }
+    },
+    "services": {
+      "office": {
+        "title": "Ofis və Biznes mərkəzi",
+        "text": "Sabit və yüksək səviyyəli xidmət. Müqaviləli xidmət və keyfiyyət hesabatı."
+      },
+      "facade": {
+        "title": "Fasad və Şüşə",
+        "text": "Binaların fasad və şüşələrinin peşəkar yuyulması."
+      },
+      "renovation": {
+        "title": "Təmir Sonrası Təmizlik",
+        "text": "Tikinti və təmirdən sonra toz və çirklərin xüsusi texnika və vasitələrlə təmizlənməsi."
+      },
+      "disinfection": {
+        "title": "Dezinfeksiya",
+        "text": "Məkanların virus və bakteriyalardan tam təmizlənməsi. Peşəkar dezinfeksiya xidməti."
+      },
+      "fire": {
+        "title": "Yanğından sonra təmizlik",
+        "text": "Yanğın sonrası his, his qoxusu və çirklərin xüsusi texnologiya ilə təmizlənməsi."
+      },
+      "apartment": {
+        "title": "Mənzil təmizliyi",
+        "text": ""
+      },
+      "restaurant": {
+        "title": "Restoran, kafe təmizliyi",
+        "text": ""
+      }
+    },
+    "form": {
+      "title": "Fərdi Təklif Al",
+      "name": "Adınız",
+      "namePlaceholder": "Adınız və Soyadınız",
+      "email": "Email",
+      "emailPlaceholder": "nümunə@gmail.com",
+      "phone": "Telefon",
+      "phonePlaceholder": "+994 55 000 00 00",
+      "service": "Xidməti seçin",
+      "location": "Ünvan",
+      "locationPlaceholder": "Bakı",
+      "date": "Tarix",
+      "submit": "Göndər",
+      "success": "Təşəkkürlər! Müraciətiniz WhatsApp-a yönləndirildi.",
+      "message": "Salam! Fərdi təklif almaq istəyirəm."
+    },
+    "a11y": {
+      "home": "Abbasoğlu təmizlik — ana səhifə",
+      "mainNav": "Əsas menyu",
+      "breadcrumb": "Naviqasiya yolu",
+      "whatsapp": "WhatsApp ilə əlaqə saxlayın (yeni pəncərədə açılır)",
+      "call": "{phone} nömrəsinə zəng edin",
+      "facebook": "Facebook səhifəmiz (yeni pəncərədə açılır)",
+      "instagram": "Instagram səhifəmiz (yeni pəncərədə açılır)",
+      "developer": "Saytı hazırlayan: Mysite (yeni pəncərədə açılır)",
+      "closeMenu": "Menyunu bağla",
+      "rating": "Reytinq: 5 üzərindən {value}",
+      "carousel": "Slayder",
+      "more": "{name} haqqında ətraflı"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Yüksək Standartlı Təmizlik Həlləri",
+      "text": "Keyfiyyət təsadüfi olmur. O, planın və nəzarətin nəticəsidir. Peşəkar yanaşma. Sistemli proses. Zəmanətli nəticə."
+    },
+    "about": {
+      "title": "Abbasoğlu təmizlik xidməti 2012-ci ildən təmizlik bazarında fəaliyyət göstərir.",
+      "text": "Şirkətin əsas fəaliyyət sahəsi peşəkar təmizlik xidmətlərinin göstərilməsidir. Biz strukturlaşdırılmış xidmət modeli tətbiq edirik.",
+      "imageAlt": "Mətbəx şkaflarını silən Abbasoğlu təmizlik mütəxəssisi"
+    },
+    "servicesTitle": "Xidmətlərimiz",
+    "testimonials": {
+      "title": "Bizim müştərilər və müqavilələr",
+      "partner": "Tərəfdaş",
+      "client": "Müştəri",
+      "items": {
+        "suIdman": {
+          "name": "“SU İDMANI SARAYI” MMC",
+          "text": "Layihə ərzində yüksək peşəkarlıq və operativlik nümayiş etdirilmişdir."
+        },
+        "sgc": {
+          "name": "SGC Azerbaijan MMC",
+          "text": "Uzunmüddətli əməkdaşlığımız ərzində hər zaman yüksək xidmət standartları gördük."
+        },
+        "azpulmat": {
+          "name": "Azpulmat MMC / MZ Plaza",
+          "text": "Əməkdaşlıq etdiyimiz müddətdə ofis məkanlarımız hər zaman təmiz və səliqəli saxlanıldı. İşçilər yüksək səviyyəli mütəxəssislərdir."
+        },
+        "mixek": {
+          "name": "Mixək restoranı",
+          "text": "Əməkdaşlıq etdiyimiz müddətdə məkanlarımız hər zaman təmiz və səliqəli saxlanıldı. İşçilər yüksək səviyyəli mütəxəssislərdir."
+        },
+        "nelbeki": {
+          "name": "Nəlbəki Restoranı",
+          "text": "Uzunmüddətli əməkdaşlığımız ərzində hər zaman yüksək xidmət standartları gördük."
+        }
+      }
+    },
+    "work": {
+      "title": "Gördüyümüz işlər",
+      "imageAlt": "Gördüyümüz iş {index}"
+    },
+    "advantages": {
+      "title": "Üstünlüklərimiz",
+      "items": {
+        "system": {
+          "category": "Sistem mərhələsi",
+          "title": "Strukturlaşdırılmış iş planı və sistemli yanaşma"
+        },
+        "team": {
+          "category": "İşçi mütəxəssislər",
+          "title": "Təlimli və daimi komanda, səlis xidmət"
+        },
+        "equipment": {
+          "category": "Avadanlıqlar",
+          "title": "Müasir avadanlıq və keyfiyyətə nəzarət mərhələsi"
+        }
+      }
+    }
+  },
+  "about": {
+    "metaTitle": "Haqqımızda",
+    "hero": {
+      "title": "Hər təmizlikdə mükəmməllik",
+      "text": "«ABBASOĞLU» təmizlik xidməti 2012-ci ildən təmizlik bazarında fəaliyyət göstərir. Şirkətin əsas fəaliyyət sahəsi peşəkar təmizlik xidmətlərinin göstərilməsidir. Biz adi təmizlik xidməti təqdim etmirik. Biz strukturlaşdırılmış xidmət modeli tətbiq edirik.",
+      "imageAlt": "Ofisdə masa və döşəmələri təmizləyən Abbasoğlu təmizlik komandası"
+    },
+    "values": {
+      "mission": {
+        "title": "Bizim Missiyamız",
+        "text": "Keyfiyyət təsadüfi olmur. O, planın və nəzarətin nəticəsidir. Bütün məhsulların keyfiyyət sertifikatları var."
+      },
+      "story": {
+        "title": "Bizim hekayəmiz",
+        "text": "Abbasoğlu təmizlik xidməti bazarda öz peşəkar yanaşması, sistemli proseslərlə və zəmanətli nəticələri ilə seçilir."
+      },
+      "vision": {
+        "title": "Baxış bucağımız",
+        "text": "Hər obyekt üçün fərdi plan hazırlanır və keyfiyyətə nəzarət mərhələsi mövcuddur. Qiymət obyektin ölçüsünə deyil, tələb olunan standart səviyyəsinə əsasən hesablanır."
+      }
+    },
+    "split": {
+      "title": "Müştəri məmnuniyyəti bizim prioritetimizdir",
+      "text": "Keyfiyyətsiz iş, nəzarətsiz komanda, zaman itkisi kimi problemləri həll edirik. Biz struktur təqdim edirik: obyekt analizi, fərdi plan, peşəkar icra, keyfiyyət yoxlaması.",
+      "features": {
+        "standard": "Yüksək standart",
+        "systematic": "Sistemli yanaşma",
+        "structured": "Strukturlaşdırılmış proses",
+        "custom": "Fərdi həll",
+        "team": "Təlimli və daimi komanda",
+        "equipment": "Müasir avadanlıq",
+        "quality": "Keyfiyyət yoxlama mərhələsi"
+      },
+      "imageAlt": "Təmizlik vasitələri ilə Abbasoğlu təmizlik mütəxəssisi"
+    },
+    "popular": {
+      "title": "Ən Çox Tələb Olunan Xidmətlərimiz",
+      "office": "Biznes mərkəzləri, klinikalar və obyektlər üçün sabit və yüksək səviyyəli xidmət.",
+      "facade": "Binaların fasad və şüşələrinin mükəmməl yuyulması.",
+      "renovation": "Tikinti və təmir prosesindən sonra yaranan toz, sement izi və çirklər xüsusi texnika və peşəkar vasitələrlə aradan qaldırılır."
+    },
+    "team": {
+      "title": "Bizim Komandamız",
+      "items": {
+        "lead": {
+          "name": "Komanda rəhbəri",
+          "role": "Proses idarəçisi"
+        },
+        "alpinist": {
+          "name": "Alpinist qrupunun rəhbəri",
+          "role": "Sertifikatlı mütəxəssis"
+        },
+        "quality": {
+          "name": "Keyfiyyət üzrə menecer",
+          "role": "Məsul menecer"
+        },
+        "hr": {
+          "name": "Personal üzrə menecer",
+          "role": "İnsan resursları"
+        }
+      }
+    }
+  },
+  "services": {
+    "metaTitle": "Xidmətlər",
+    "hero": {
+      "title": "Ekspert təmizlik həlləri",
+      "text": "Biz sizin unikal ehtiyaclarınıza uyğunlaşdırılmış ən yüksək səviyyəli təmizlik xidmətləri təqdim etməkdən qürur duyuruq.",
+      "imageAlt": "Mətbəxdə masa və stulları dezinfeksiya edən təmizlik mütəxəssisi"
+    },
+    "faq": {
+      "title": "Tez-tez verilən suallar",
+      "items": {
+        "services": {
+          "q": "Hansı xidmətləri təklif edirsiniz?",
+          "a": "Biz yaşayış sahələrinin təmizliyi, ticarət və ofis mərkəzləri, xalça yuyulması, pəncərə təmizliyi və dərindən təmizlik daxil olmaqla geniş bir təmizlik xidmətləri spektrini təklif edirik."
+        },
+        "order": {
+          "q": "Təmizlik xidmətini necə sifariş etməliyəm?",
+          "a": "Xidmət sifariş etmək çox asandır! Sizin üçün uyğun vaxtı onlayn şəkildə veb saytımızdan, zəng edərək və ya e-poçt vasitəsilə planlaşdıra bilərsiniz."
+        },
+        "cancel": {
+          "q": "Ləğv siyasətiniz nədən ibarətdir?",
+          "a": "Planların dəyişə biləcəyini anlayırıq. Əgər görüşünüzü ləğv etməli və ya vaxtını dəyişməli olarsınızsa, xahiş edirik ki, ən azı 24 saat əvvəldən bizimlə əlaqə saxlayasınız."
+        },
+        "sameTeam": {
+          "q": "Hər ziyarət üçün eyni təmizlik komandasını istəyə bilərəmmi?",
+          "a": "Müştərilərimiz üçün davamlılığı təmin etməyə çalışırıq. Əgər hər təmizlikdə eyni təlimli komandanın olmasını üstün tutursunuzsa, lütfən bildirin."
+        },
+        "presence": {
+          "q": "Təmizlik zamanı evdə (obyektdə) olmağım mütləqdirmi?",
+          "a": "Bu sizdən asılıdır! Siz təmizlik zamanı obyektdə ola da bilərsiniz, ya da təhlükəsizlik və etibarlılıqla prosesi bizə həvalə edə bilərsiniz."
+        }
+      }
+    }
+  },
+  "notFound": {
+    "title": "Səhifə tapılmadı",
+    "text": "Axtardığınız səhifə mövcud deyil və ya köçürülüb.",
+    "back": "Ana səhifəyə qayıt"
+  },
+  "seo": {
+    "more": "Ətraflı",
+    "faqTitle": "Tez-tez verilən suallar",
+    "areas": {
+      "title": "Xidmət əraziləri",
+      "text": "Bakının bütün rayonlarında, Sumqayıtda və Xırdalanda ofis, mənzil, fasad, təmir sonrası təmizlik və dezinfeksiya xidməti göstəririk.",
+      "metaDescription": "Abbasoğlu təmizlik — Bakının 12 rayonu, Sumqayıt və Xırdalanda peşəkar təmizlik xidməti. Ofis, mənzil, fasad, təmir sonrası, dezinfeksiya.",
+      "districts": "Bakı rayonları",
+      "cities": "Bakı, Sumqayıt və Xırdalan",
+      "services": "Xidmətlər"
+    },
+    "location": {
+      "eyebrow": "Xidmət ərazisi",
+      "title": "{in} təmizlik xidməti",
+      "metaDescription": "{in} ofis, mənzil, təmir sonrası təmizlik, fasad yuyulması və dezinfeksiya — {areas}. Zəng: 055 444 16 02.",
+      "aboutTitle": "Ərazinin xüsusiyyətləri",
+      "areasTitle": "Xidmət göstərdiyimiz massiv və qəsəbələr",
+      "servicesTitle": "{in} xidmətlərimiz",
+      "sectorsTitle": "Sektorlar üzrə xidmət",
+      "districtsTitle": "Bakının rayonları",
+      "nearbyTitle": "Yaxın ərazilər",
+      "q1": "{in} təmizlik xidməti necə sifariş edilir?",
+      "a1": "WhatsApp və ya 055 444 16 02 nömrəsi ilə əlaqə saxlayın. Obyektə baxış üçün vaxt razılaşdırırıq, sonra fərdi plan və qiymət təklif edirik.",
+      "q2": "{areas} ərazilərinə də gəlirsiniz?",
+      "a2": "Bəli. {in} {areas} daxil olmaqla bütün massiv və qəsəbələrdə xidmət göstəririk.",
+      "q3": "Qiymət necə hesablanır?",
+      "a3": "Qiymət obyektin ölçüsünə deyil, tələb olunan standart səviyyəsinə, tezliyə və iş vaxtına əsasən hesablanır. Dəqiq qiyməti baxışdan sonra deyirik."
+    },
+    "service": {
+      "eyebrow": "Xidmət",
+      "includedTitle": "Nə daxildir",
+      "processTitle": "İş prosesi",
+      "factorsTitle": "Qiymətə təsir edən amillər",
+      "areasTitle": "Bu xidməti göstərdiyimiz ərazilər",
+      "sectorsTitle": "Uyğun sektorlar",
+      "postsTitle": "Faydalı yazılar",
+      "otherTitle": "Digər xidmətlər"
+    },
+    "combo": {
+      "contextTitle": "Bu ərazidə nəyə diqqət edirik",
+      "otherServicesTitle": "{in} digər xidmətlər",
+      "nearbyTitle": "{service} — yaxın ərazilərdə",
+      "metaDescription": "{in} {service}: {short} Zəng: 055 444 16 02.",
+      "q1": "{in} {service} necə sifariş edilir?",
+      "a1": "WhatsApp və ya 055 444 16 02 nömrəsi ilə əlaqə saxlayın. {name} ərazisində obyektə baxış üçün vaxt razılaşdırırıq, sonra plan və qiymət təklif edirik.",
+      "q2": "{areas} ərazilərinə də gəlirsiniz?",
+      "a2": "Bəli. {in} {areas} daxil olmaqla bütün massiv və qəsəbələrdə bu xidməti göstəririk."
+    },
+    "sectors": {
+      "title": "Sektorlar üzrə təmizlik",
+      "text": "Hər obyekt növünün öz tələbləri var: klinikada dezinfeksiya protokolu, oteldə qonaq rahatlığı, istehsalatda təhlükəsizlik. Sektorunuzu seçin.",
+      "metaDescription": "Otel, klinika, məktəb, ticarət mərkəzi, idman kompleksi, yaşayış kompleksi, anbar və inzibati binalar üçün peşəkar təmizlik — Bakı, Sumqayıt, Xırdalan."
+    },
+    "sector": {
+      "eyebrow": "Sektor",
+      "requirementsTitle": "Bu sektorda nəyə diqqət edirik",
+      "scheduleTitle": "İş qrafiki və müqavilə",
+      "servicesTitle": "Bu sektor üçün xidmətlər",
+      "citiesTitle": "Şəhərlər üzrə",
+      "testimonialTitle": "Müştərimizin rəyi"
+    },
+    "sectorCity": {
+      "cityTitle": "Şəhər üzrə xüsusiyyətlər",
+      "servicesTitle": "{in} xidmətlər",
+      "otherSectorsTitle": "{in} digər sektorlar",
+      "otherCitiesTitle": "Digər şəhərlərdə",
+      "metaDescription": "{in} {sector}: {short} Zəng: 055 444 16 02.",
+      "q1": "{in} müqavilə necə bağlanır?",
+      "a1": "Əvvəlcə obyektə baxış və analiz aparırıq, sonra iş siyahısı, qrafik və standart müqavilədə yazılır. Obyektə daimi komanda təyin olunur."
+    }
+  },
+  "blog": {
+    "title": "Bloq",
+    "text": "Təmizlik, gigiyena və obyekt baxımı haqqında praktik məsləhətlər.",
+    "metaDescription": "Abbasoğlu təmizlik bloqu: təmir sonrası təmizlik, ofis gigiyenası, fasad yuyulması, dezinfeksiya və daha çox.",
+    "readMore": "Oxu",
+    "relatedService": "Əlaqəli xidmət",
+    "relatedSector": "Əlaqəli sektor",
+    "latest": "Digər yazılar",
+    "back": "Bütün yazılar"
+  }
+}
