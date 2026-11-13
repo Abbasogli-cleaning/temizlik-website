@@ -37,6 +37,9 @@ export function QuoteForm({ className }: { className?: string }) {
       `${t("date")}: ${data.get("date") ?? ""}`,
     ].filter(Boolean);
 
+    (window as { gtag?: (...args: unknown[]) => void }).gtag?.("event", "conversion", {
+      send_to: site.adsContactConversion,
+    });
     window.open(`https://wa.me/${site.whatsappNumber}?text=${encodeURIComponent(lines.join("\n"))}`, "_blank", "noopener");
     setSent(true);
     e.currentTarget.reset();

@@ -14,6 +14,8 @@ export const site = {
     instagram: "https://www.instagram.com/cleaning.abbasogli/reels/",
   },
   ogImage: "/images/abbasoglu-temizlik-og.jpg",
-  gtagIds: ["G-PJCSYJ3B9F", "G-ZD1ZGG3PRN", "AW-11377690140"],
+  gtagIds: ["G-PJCSYJ3B9F", "G-ZD1ZGG3PRN", "AW-11377690140", "AW-672108062"],
+  /** Google Ads "Контакт" konversiyası — WhatsApp/zəng kliki və təklif formu göndərişi */
+  adsContactConversion: "AW-672108062/XV6MCKuA9oscEJ6cvsAC",
 } as const;
 
